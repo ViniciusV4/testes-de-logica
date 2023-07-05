@@ -3,6 +3,6 @@ function sent() {
     let nameValue = namePerson.value
     let textBox = document.getElementById("space")
 
-    textBox.textContent = `Hello ${nameValue}, it's nice to meet you`
+    textBox.textContent = `Olá ${nameValue}, é um prazer te conhecer!`
 }
 
