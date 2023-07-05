@@ -1,8 +1,14 @@
-# Logica Com JavaScript:
+# Logic With JavaScript:
 
-## Este repositório tem o intuito de armazenar desafios de lógica resolvidos por mim(Marcos Vinicius) com JavaScript. Vou iniciar meus desafios partindo do "Hello Word" e ir evoluindo com o decorrer do tempo.
+## This repository is intended to store logic challenges solved by me (Marcos Vinicius) with JavaScript. I'm going to start my challenges starting with "Hello Word" and evolve.
 
-## Além dos desafios lógicos, todos os meus projetos teram minha identidade como desenvolvedor front-end, tanto o HTML quanto o CSS.
+## In addition to the logical challenges, all my projects will have my identity as a front-end developer, both HTML and CSS.
 
-## Espero que gostem. 🥳
-# testes-de-logica
+ 🥳🥳🥳
+
+
+
+
+
+
+
